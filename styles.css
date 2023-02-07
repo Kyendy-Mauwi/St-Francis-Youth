@@ -63,7 +63,7 @@ mark {
 }
 .maps {
   padding-bottom: 90px;
-  padding-left: 12%;
+  /* padding-left: 12%; */
   align-items: center;
   justify-content: center;
 }
